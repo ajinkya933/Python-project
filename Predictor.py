@@ -24,7 +24,7 @@ if(d>70):
 
         print ("Predicted to be highly succesful")
 
-elif(d<=70):
+elif(d>50 and d<=70):
 
         print("Predicted to be moderate")
 
