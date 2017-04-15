@@ -1,0 +1,925 @@
+/Users/ajinkyabobade/anaconda/bin/python /Users/ajinkyabobade/PycharmProjects/untitled/twittersemantics.py
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+RT @DaveCullen: Uh-MAZing. And I’ve never really liked a Marvel film before. Can’t describe how impressed I was. (And I’ve had a fe…  pos:::::1.00
+unorderable types: str() >= int()
+Just Pinned to doctor strange: Doctor Strange Passes Iron Man 2 at Global Box Office - mr-… … https://t.co/Jd36Z6qp5o pos:::::0.67
+unorderable types: str() >= int()
+AWESOME.... — watching Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+RT @metacritic: Weekend Box Office: (1) Moana $28.4mil (2) Fantastic Beasts $18.5 (3) Arrival $7.3 (4) Allied $7.1 (5) Doctor Strange $6.5… neg:::::0.67
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+I ran my 1st @runDisney 10k and survived. Doctor Strange 10k recap on my blog! https://t.co/OquST4nC4r https://t.co/7f7P3UYoiF neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Finally watching doctor strange and it gorgeous.. definitely my favorite marvel movie pos:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+'Fantastic Beasts' Bests $600M WW; 'Moana' Mints $177M; 'Doctor Strange' Ices... https://t.co/PXcnBv8F1H https://t.co/CXkMxzMJxU neg:::::1.00
+unorderable types: str() >= int()
+'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @grantelewis: WHAT IF DOCTOR STRANGE IN INFINITY WAR USES THE EYE OF AGAMOTTO ON GROOT LIKE HE DID ON THE APPLE TO MAKE HIM GROW BIG ENO… neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+Good https://t.co/aAfnsKN5rd neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+3 of 5 stars to Doctor Strange by Roger Stern https://t.co/DKz78E7nZp pos:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+'Dormammu...I've come to bargain.' https://t.co/o6Xp6ikmIQ pos:::::0.67
+unorderable types: str() >= int()
+Doesn't' surprise me... IRON MAN 2 was Marvel's 3rd film. DOCTOR STRANGE is its 14th. https://t.co/g1jyajDPhB neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+https://t.co/2ifHoPz401 Doctor Strange Marvel Sixth Scale Figure https://t.co/JxCzUxrMWj #tweet #collectibles #toys #moviecollectibles, m… neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @FaithfulMantis: Good https://t.co/aAfnsKN5rd neg:::::1.00
+unorderable types: str() >= int()
+Let's go watch doctor strange again lol @TweetyyBirddd neg:::::0.83
+unorderable types: str() >= int()
+RT @andreasofiamr: "Silence your ego and your power will rise." — Doctor Strange pos:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @andreasofiamr: "Silence your ego and your power will rise." — Doctor Strange pos:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+Not my usual subject matter but my son has been asking to paint Doctor Strange for weeks -… https://t.co/8gTYFSVJDi pos:::::1.00
+unorderable types: str() >= int()
+Doctor Strange has beaten Iron Man at the Box Office. https://t.co/J6FXNqusFt pos:::::0.83
+unorderable types: str() >= int()
+@DrStrange whooped @Iron_Man arse, yeah that happened! #DoctorStrange  https://t.co/U82gAFs3LG neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+I wanna watch Doctor Strange again neg:::::0.83
+unorderable types: str() >= int()
+@mundanematt And Doctor Strange is better on every level. neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+So goodt https://t.co/nF4I9SdB8y neg:::::1.00
+unorderable types: str() >= int()
+RT @AdrianXpression: So goodt https://t.co/nF4I9SdB8y neg:::::1.00
+unorderable types: str() >= int()
+RT @_YungRodd: I thought I was on acid watching that shit https://t.co/VhQkJGksRB pos:::::1.00
+unorderable types: str() >= int()
+DOCTOR STRANGE.
+Freakin awesomee neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+@Ibby_Staarh doctor strange neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+Real Science Used In Doctor Strange https://t.co/c330IlIXxb https://t.co/J0h5kYE8sL neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/rUdULaX2ZT neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+@mundanematt What I love most about Doctor Strange is that it can be enjoyed as a standalone film. No cinematic universe baggage. pos:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+Clearly Konnor just saw Doctor Strange and was inspired #WWETLC https://t.co/hc977ZLJ2k neg:::::1.00
+unorderable types: str() >= int()
+RT @BrysonFillHER: Anyone notice doctor strange really is about being conscious? Also, Black panther is going to have an all black cast... neg:::::0.83
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @NewScienceWrld: Real Science Used In Doctor Strange https://t.co/c330IlIXxb https://t.co/J0h5kYE8sL neg:::::1.00
+unorderable types: str() >= int()
+Really wanna go watch Moana, Fantastic Beasts, or Doctor Strange neg:::::0.83
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange #mannequinchallenge https://t.co/B1XFIG8kJy neg:::::1.00
+unorderable types: str() >= int()
+I WAS JUST THINKING ABOUT THIS!!!! https://t.co/E1ASWFNT6o neg:::::1.00
+unorderable types: str() >= int()
+doctor strange wus tough
+😯😱 neg:::::1.00
+unorderable types: str() >= int()
+@Misru13 doctor strange there is no competition neg:::::1.00
+unorderable types: str() >= int()
+@Bobby_Hutton hope that doctor strange bargains with dormammu to take joe berry instead of destroying the earth neg:::::1.00
+unorderable types: str() >= int()
+RT @c0le_younger: @Bobby_Hutton hope that doctor strange bargains with dormammu to take joe berry instead of destroying the earth neg:::::1.00
+unorderable types: str() >= int()
+Real Science Used In Doctor Strange https://t.co/c330IlIXxb https://t.co/YlHcOBx6OI neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+Just watched Doctor Strange that's some good shit right there pos:::::1.00
+unorderable types: str() >= int()
+Doctor strange was the most expensive #MannequinChallenge yet pos:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange https://t.co/bLd8JmlfIM #comics #comicbooks #DoctorStrange #Marvel neg:::::1.00
+unorderable types: str() >= int()
+i was so mad when i heard there wasn't going to be a sherlock series in 2015 and 2016 but then he gave us doctor strange &amp; now i get to neg:::::0.83
+unorderable types: str() >= int()
+doctor strange is triply neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+New Post: Doctor Strange Earns $634.9M Globally and Passes Iron Man 2 At The Box Office https://t.co/JbHK06vKOz On ForbezDVD neg:::::1.00
+unorderable types: str() >= int()
+Today in Movie Culture: 'Doctor Strange' Easter Eggs, How 'Trainspotting' .. #filmmakers https://t.co/yWbqSjFJxU https://t.co/33sJy1sCH8 neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+So I thoroughly enjoyed Doctor Strange!! Its a Marvel property I wasn't very familiar with but I still loved the movie neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thewhatnauts: Doctor Strange https://t.co/bLd8JmlfIM #comics #comicbooks #DoctorStrange #Marvel neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+NW: Marvel Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+RT @grantelewis: WHAT IF DOCTOR STRANGE IN INFINITY WAR USES THE EYE OF AGAMOTTO ON GROOT LIKE HE DID ON THE APPLE TO MAKE HIM GROW BIG ENO… neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+In the Doctor Strange showing 20 minutes early and Emerald City preview is running this looks epic and King Pin is the Wizard of Oz Hahaha neg:::::1.00
+unorderable types: str() >= int()
+I enjoyed Doctor Strange. The one thing that bugged, and I apologize if it's heresy, was Benedict's American accent. Just keep him British! neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @mundanematt: Doesn't' surprise me... IRON MAN 2 was Marvel's 3rd film. DOCTOR STRANGE is its 14th. https://t.co/g1jyajDPhB neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange was a lot funnier than I thought it'd be. neg:::::1.00
+unorderable types: str() >= int()
+@aaronwallace As a huge Marvel and MCU fan, I've loved most of what's come out of it. But Doctor Strange opens exciting opportunities! pos:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+🍿 — watching Doctor Strange at iPic Theaters https://t.co/qLEXlK9hBZ neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange summary of the day. https://t.co/KYM3OBXden neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+I'm late af but Doctor Strange was awesome pos:::::0.67
+unorderable types: str() >= int()
+Have you entered our #DoctorStrange giveaway yet? Even if you have, there are ways to enter DAILY! #Marvel #Funko https://t.co/SFKlkeNkLZ neg:::::1.00
+unorderable types: str() >= int()
+Doctor strange was an interesting movie ....🤔 neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange Review: Mystical Sherlock in 3D: https://t.co/CBzg72eMLk via @YouTube neg:::::1.00
+unorderable types: str() >= int()
+RT @gb_reviews: Have you entered our #DoctorStrange giveaway yet? Even if you have, there are ways to enter DAILY! #Marvel #Funko https://t… neg:::::1.00
+unorderable types: str() >= int()
+@WhatsWrongWWE better than Fantastic Beats or Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+@ugly_kreep I'll go with you for doctor strange if ya want!!! Go get da monies neg:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: &amp; lastly DOCTOR STRANGE as a movie has been nominated for "Best Visual Effects," "Best Sci-Fi / Horror Movie," and "Be… neg:::::0.67
+unorderable types: str() >= int()
+FREE and EASY to ENTER AND WIN! Win a Upper Deck Marvel Doctor Strange Memorabilia Card with Wardrobe Piece! https://t.co/bSorXiz0kt pos:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+I don't know if I have mentioned this but as it's Monday and it's 42 degrees in my office; I am so proud of Doctor Strange. So very proud. neg:::::0.83
+unorderable types: str() >= int()
+RT @thewhatnauts: Doctor Strange https://t.co/bLd8JmlfIM #comics #comicbooks #DoctorStrange #Marvel neg:::::1.00
+unorderable types: str() >= int()
+'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+The Doctor Strange score is my jam on toast. neg:::::1.00
+unorderable types: str() >= int()
+doctor strange better be a good ass movie or im fighting someone neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+I just published “The Healing Power of Doctor Strange” https://t.co/w9h4I2r0zs neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange Review is UP!!! Link in Bio ⬆️⬆️⬆️⬆️⬆️⬆️ Thanks for the support and reposts  and… https://t.co/qqRl4j7Jxc neg:::::1.00
+unorderable types: str() >= int()
+New Post: Doctor Strange Earns $634.9M Globally and Passes Iron Man 2 At The Box Office https://t.co/VB9ZQ7LLRj On ForbezDVD neg:::::1.00
+unorderable types: str() >= int()
+New On ForbezDVD: Doctor Strange Earns $634.9M Globally and Passes Iron Man 2 At The Box Office… https://t.co/d4eQH9Isb8 neg:::::1.00
+unorderable types: str() >= int()
+New On ForbezDVD: Doctor Strange Earns $634.9M Globally and Passes Iron Man 2 At The Box Office… https://t.co/dQ9rDQqwX2 neg:::::1.00
+unorderable types: str() >= int()
+Just Pinned to doctor strange: - screenrant https://t.co/uxfcM5npro https://t.co/Nxgi3jEMUI pos:::::0.67
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+@ErikBeaston Easy to compare to Doctor Strange. Harper is Mordo, Orton is Strange and Wyatt is The Ancient One. Harper will eventually turn. pos:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange Earns $634.9M Globally and Passes Iron Man 2 At The Box Office https://t.co/AY8n3cERiU neg:::::1.00
+unorderable types: str() >= int()
+RT @AminMatalqa: I just published “The Healing Power of Doctor Strange” https://t.co/w9h4I2r0zs neg:::::1.00
+unorderable types: str() >= int()
+RT @AminMatalqa: I just published “The Healing Power of Doctor Strange” https://t.co/w9h4I2r0zs neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+Doctor Strange’s post-credits scenes [spoilers], explained https://t.co/u3sYilZQYG neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange is an inspirational movie neg:::::1.00
+unorderable types: str() >= int()
+RT @grantelewis: WHAT IF DOCTOR STRANGE IN INFINITY WAR USES THE EYE OF AGAMOTTO ON GROOT LIKE HE DID ON THE APPLE TO MAKE HIM GROW BIG ENO… neg:::::1.00
+unorderable types: str() >= int()
+Just Pinned to doctor strange: - screenrant https://t.co/IvjJcjGE0s https://t.co/BvPTLCAFf4 pos:::::0.67
+unorderable types: str() >= int()
+Doctor Strange 1 CGC 7.5 VF- OW/W Marvel 1974 Frank Brunner https://t.co/bkCsexldax https://t.co/gmbRndgBRi neg:::::1.00
+unorderable types: str() >= int()
+RT @Joetivational: really looking forward to seeing Doctor Strange, a film which I will never see pos:::::1.00
+unorderable types: str() >= int()
+4 of 5 stars to Doctor Strange (2015-) #2 by Jason Aaron https://t.co/dqSe5EQKCv neg:::::1.00
+unorderable types: str() >= int()
+Smoking and Doctor Strange does not mix. neg:::::0.83
+unorderable types: str() >= int()
+Saw Doctor Strange today it was amazing !! neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: &amp; lastly DOCTOR STRANGE as a movie has been nominated for "Best Visual Effects," "Best Sci-Fi / Horror Movie," and "Be… neg:::::0.67
+unorderable types: str() >= int()
+Doctor Strange Reaches $634.9 Million Worldwide https://t.co/lzElFSWOXh neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @longwayselena: psychic powers, doctor strange who https://t.co/QuZMS8U3rb pos:::::1.00
+unorderable types: str() >= int()
+I'm at @Cinemark 17 &amp; IMAX Theater for Doctor Strange in Disney Digital 3D in Dallas, TX https://t.co/7ghyyPXoLL neg:::::0.83
+unorderable types: str() >= int()
+I'm ready for tonight's Doctor Strange discussion. Fucking come at me bro. https://t.co/ZvMhxeSTvN neg:::::1.00
+unorderable types: str() >= int()
+I added a video to a @YouTube playlist https://t.co/kDOA0o05gt Doctor Strange inspired space kaleidoscope effect neg:::::1.00
+unorderable types: str() >= int()
+@romenhan02 hihi true 😊 But still, I think he would've been great as Doctor Strange haha I love both of them 😆💕 neg:::::0.67
+unorderable types: str() >= int()
+Box Office: 'Moana' Wins Weekend,'Fantastic Beasts' Passes $600M, 'Doctor Strange' Tops 'Iron Man 2' via @forbes https://t.co/ISIniGvDna neg:::::1.00
+unorderable types: str() >= int()
+Look for my bday I got myself a doctor strange shirt. No one would give me one sooo neg:::::1.00
+unorderable types: str() >= int()
+VOTD: ‘Doctor Strange’ Writer’s Short Film ‘As They Continue To Fall’ Hunts Down Fallen ... https://t.co/TmLjl2GSVh neg:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+RT @theBobbyCrogan: I'm ready for tonight's Doctor Strange discussion. Fucking come at me bro. https://t.co/ZvMhxeSTvN neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange is good AF pos:::::0.67
+unorderable types: str() >= int()
+RT @theBobbyCrogan: I'm ready for tonight's Doctor Strange discussion. Fucking come at me bro. https://t.co/ZvMhxeSTvN neg:::::1.00
+unorderable types: str() >= int()
+Disney Sets Industry Record At Domestic Box Office; Crosses $4B Intl For First Time https://t.co/EArCcDqfCx via @deadline neg:::::1.00
+unorderable types: str() >= int()
+But seriously, Doctor Strange was the tits. neg:::::1.00
+unorderable types: str() >= int()
+RT @jonprasida: Doctor strange was the most expensive #MannequinChallenge yet pos:::::0.83
+unorderable types: str() >= int()
+Watching doctor strange af. neg:::::1.00
+unorderable types: str() >= int()
+Just watched Doctor Strange and all I'm wondering about is whether or not it's too late for me to become a surgeon😂 neg:::::0.83
+unorderable types: str() >= int()
+OMG SOO FANTASTIC BEAST WAS AMAZING AND SAD 😭 BUT IM GOING ON A MOVIE MARATHON AND IM NOW SEEING DOCTOR STRANGE neg:::::1.00
+unorderable types: str() >= int()
+https://t.co/n63rSfOm5W Doctor Strange is an absolute stunner. neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @antsstyle: DOCTOR strange, by jake Moon: https://t.co/TSK0vhEpiv https://t.co/Ufrc1dvU0l neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+I liked a @YouTube video from @mrjakematthews https://t.co/CBzg72eMLk Doctor Strange Review: Mystical Sherlock in 3D pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+Superhero Bits: X-Men Comics Return, Doctor Strange Diagnoses Avengers Injuries &amp; More... https://t.co/juuYxqjjpt pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/mw4TkDDtXv neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+RT @flickeringmyth: Gallery of concept art from Marvel’s Doctor Strange
+https://t.co/qwxix1jOvU https://t.co/w2SPmmc4Fp neg:::::1.00
+unorderable types: str() >= int()
+@Evilspacewhale Is Doctor Strange in the game? neg:::::1.00
+unorderable types: str() >= int()
+RT @grantelewis: WHAT IF DOCTOR STRANGE IN INFINITY WAR USES THE EYE OF AGAMOTTO ON GROOT LIKE HE DID ON THE APPLE TO MAKE HIM GROW BIG ENO… neg:::::1.00
+unorderable types: str() >= int()
+#12by6 #drstrange #review
+Jared Bryant reviews Marvel's Doctor Strange https://t.co/lsJf2yNOJH pos:::::0.83
+unorderable types: str() >= int()
+@Kudzair_ rah doctor who uno, I fully thought you said doctor strange neg:::::1.00
+unorderable types: str() >= int()
+@DeGz77 @SuperheroPOLL @Moviepolls2016 Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+Now watching Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+I'll pretty much watch any movie (that doesn't have a ton of gore) but Doctor Strange was the dumbest thing I've ever had to sit through. neg:::::1.00
+unorderable types: str() >= int()
+@AbdulBasitGour 😂😂 Doctor Strange was average at best imo tho ngl, but the visual effects were 10/10 pos:::::1.00
+unorderable types: str() >= int()
+@__vivalajuicyyy doctor strange neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange has all the visuals I wanted from Inception. The story is crap, but the visuals are psychedelic awesomeness. neg:::::0.67
+unorderable types: str() >= int()
+RT @DeLuxODonnell92: Around this time, 2017: They cross $5B! https://t.co/Kwi48R9VKZ neg:::::1.00
+unorderable types: str() >= int()
+@marvelvscapcom I want see Doctor Strange and Dante! 😀 neg:::::1.00
+unorderable types: str() >= int()
+watching Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
+RT @Knifify: I have power over my own mind
+
+Abstract - Doctor Strange pos:::::0.67
+unorderable types: str() >= int()
+I watched Doctor Strange last weekend, and saw Fantastic Beasts and Where to Find them today. I watched two movies about magic in a row. pos:::::1.00
+unorderable types: str() >= int()
+Follow @gb_reviews for geeky TV &amp; movie reviews and for your chance to WIN the #DoctorStrange Giveaway! Enter here: https://t.co/p4ibXTtn6s pos:::::1.00
+unorderable types: str() >= int()
+Watching Doctor strange, pretty good movie so far (: neg:::::1.00
+unorderable types: str() >= int()
+RT @xymor: Just Pinned to doctor strange: Doctor Strange Passes Iron Man 2 at Global Box Office - mr-… https://t.co/7jhDrQ98yC https://t.co… pos:::::0.67
+unorderable types: str() >= int()
+#Comicbook Doctor Strange Passes Iron Man 2 At The Box Office. Read Blog: https://t.co/0OLWDdnC4Y neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange continues to rise at the box office.  #DoctorStrange https://t.co/XWc1ZSTPw4 pos:::::0.83
+unorderable types: str() >= int()
+Doctor strange was littttttttt neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange https://t.co/99Ra77126K neg:::::1.00
+unorderable types: str() >= int()
+Film Theory: Doctor Strange Magic DEBUNKED by Science
+
+@larisstocrat_15
+
+Check this out on Doctor Strange https://t.co/is0WquR2fu neg:::::1.00
+unorderable types: str() >= int()
+Captain Fantastic (one of my personal faves), Beasts of No Nation, ARRIVAL, Suicide Squad, Doctor Strange, Sully... neg:::::1.00
+unorderable types: str() >= int()
+@tonygzzwagner every blockbuster has Reshoots. Doctor Strange, Back To The Future, The Avengers, Jaws and EVEN Rocky had reshoots. pos:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Saw Doctor Strange and Fantastic Beasts today and highly recommend seeing both of them! pos:::::1.00
+unorderable types: str() >= int()
+OU Students: Free Movie Night! Showing Moana and Doctor Strange at 10pm tonight! Good chance to relax before starting finals week!! pos:::::1.00
+unorderable types: str() >= int()
+Sparkly/Glittery Doctor Strange😊 https://t.co/4nDTa2nUI2 neg:::::1.00
+unorderable types: str() >= int()
+I still haven't seen Doctor Strange 😡 neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+Bought the second Doctor Strange mag wooo pos:::::0.83
+unorderable types: str() >= int()
+Check it out @G_Switzer! https://t.co/vQXhmj3cpo neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange disponible en version TSCAM FRENCH sur le site !
+
+https://t.co/4d992hTrEO neg:::::1.00
+unorderable types: str() >= int()
+RT @MarkHarrisNYC: Just saw Doctor Strange. The greatest casting influence on movies in the last decade is the fact that Hugh Laurie nailed… pos:::::1.00
+unorderable types: str() >= int()
+@MaxiiiCARP Amarlos. If you're feeling a bit strange, the doctor will see you now *se le cae la tanga* pos:::::1.00
+unorderable types: str() >= int()
+doctor strange - getaway
+  — for em
+cc-mine ac/ib-sired to damon (?)
+  + this is s... (Vine by @sebsstarbucks) https://t.co/4duCJqaVyw pos:::::1.00
+unorderable types: str() >= int()
+#Comicbook Doctor Strange Passes Iron Man 2 At The Box Office. Read Blog: https://t.co/ANttIKIqat neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+Disney does great job https://t.co/qb3i8lhs6z neg:::::1.00
+unorderable types: str() >= int()
+Here's my MVC: Infinite Wishlist:
+Starlord
+Luke Cage
+Asura
+Tron
+Doctor Strange
+Ruby Heart
+Strider
+Sakura
+Deadpool
+Phoenix Wright
+Amaterasu pos:::::0.83
+unorderable types: str() >= int()
+Doctor Strange Passes Iron Man 2 At The Box Office https://t.co/rwRCA0DWls https://t.co/ajw9A59PAC neg:::::1.00
+unorderable types: str() >= int()
+@Fizzygrrl Did you get to see Doctor Strange?? neg:::::1.00
+unorderable types: str() >= int()
+RT @heroichollywood: 'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/KESBmPFE7B neg:::::1.00
+unorderable types: str() >= int()
+RT @PixelMatt64: Here's my MVC: Infinite Wishlist:
+Starlord
+Luke Cage
+Asura
+Tron
+Doctor Strange
+Ruby Heart
+Strider
+Sakura
+Deadpool
+Phoenix… pos:::::0.83
+unorderable types: str() >= int()
+Have you seen Doctor Strange??? https://t.co/8WZnE86zbH neg:::::1.00
+unorderable types: str() >= int()
+Haven't seen Doctor Strange, but it sounds okay. I still feel good about #RogueOne. The year will end well. I sense it through the Force. pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+Just got out from theaters. Watched Doctor Strange with my brother. Creatively special yet the rest was okay at best. Cumberbatch was good. pos:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+RT @flickeringmyth: Gallery of concept art from Marvel’s Doctor Strange
+https://t.co/qwxix1jOvU https://t.co/w2SPmmc4Fp neg:::::1.00
+unorderable types: str() >= int()
+RT @MRodOfficial: Between Doctor Strange and Interstellar the pressure is on to figure out String Theory once &amp; for all, hope it happens in… neg:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+@NachoPicasso THATS WHAT IM SAYING! NO FUCKING GAMBIT! LIKE...WHAT??? Doctor Strange will be dope though pos:::::0.83
+unorderable types: str() >= int()
+Just bought our tickets to see Doctor Strange tonight #excited 🤓🙌🏼🎬 neg:::::0.67
+unorderable types: str() >= int()
+ra's al ghul has the same cape pieces and hair has doctor strange the cape bits are in green neg:::::1.00
+unorderable types: str() >= int()
+doctor strange ost on point neg:::::1.00
+unorderable types: str() >= int()
+45. Doctor Strange
+- pretty funny
+- visually stunning
+- Benedict Cumberbatch!!!!
+- good Marvel film https://t.co/qwdQeSWJDG pos:::::1.00
+unorderable types: str() >= int()
+lmao speaking of the MCU, this is a little bit embarrassing but I haven't seen Doctor Strange yet 😕 hahahaha I blame budget cut and time neg:::::0.83
+unorderable types: str() >= int()
+Safe bet on who will be  in Marvel vs Capcom infinite. Captain America,Iron-Man,Captain Marvel,Hulk,Spider-Man, Thoright , Doctor Strange. pos:::::1.00
+unorderable types: str() >= int()
+doctor strange mt bom neg:::::1.00
+unorderable types: str() >= int()
+Now that 2016 CBMs are all out
+
+Civil War &gt; BvS &gt; Suicide Squad &gt; Deadpool &gt; Apocalypse &gt; Doctor Strange pos:::::0.67
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+FREE and EASY to ENTER AND WIN! Win a Upper Deck Marvel Doctor Strange Memorabilia Card with Wardrobe Piece! https://t.co/ad7EnsAJKJ pos:::::1.00
+unorderable types: str() >= int()
+RT @MRodOfficial: Between Doctor Strange and Interstellar the pressure is on to figure out String Theory once &amp; for all, hope it happens in… neg:::::0.83
+unorderable types: str() >= int()
+My parents loved Doctor Strange 😊 neg:::::1.00
+unorderable types: str() >= int()
+@JDiesel04 did you see Doctor Strange yet? neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange https://t.co/ms1OJ7JQx9 neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Disney Sets Industry Record At Domestic Box Office; Crosses $4B Intl For First Time https://t.co/UFkoTqNs39 via @deadline Very Impressive! neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange was fucking amazing. I'd definitely see it again. neg:::::0.83
+unorderable types: str() >= int()
+@GraceRandolph Doctor Strange only 30 mill ahead of FBs even though it came out 2 weeks earlier🤔🤔 neg:::::0.67
+unorderable types: str() >= int()
+Doctor Strange 👍 neg:::::1.00
+unorderable types: str() >= int()
+tremendo doctor strange neg:::::1.00
+unorderable types: str() >= int()
+@scottderrickson Doctor Strange is still playing at the theater I work at, and some of our showings are selling 20+ tickets. I'm proud. neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+I did not expect Doctor Strange to be amazing but it was neg:::::0.83
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+the entire x-men, F4, Venom, Carnage, Black Panther, Doctor Strange https://t.co/qnkpVP28Zc neg:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+RT @benxdicted: I just watched Doctor Strange and my favourite character was the cape neg:::::1.00
+unorderable types: str() >= int()
+I liked a @YouTube video from @awesomemergency https://t.co/0Qo4tQ95TW Spider Man Carnage Doctor Strange Agents Of SHIELD Season 4 pos:::::1.00
+unorderable types: str() >= int()
+RT @AminMatalqa: I just published “The Healing Power of Doctor Strange” https://t.co/w9h4I2r0zs neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange More https://t.co/uG2meEvtIM neg:::::1.00
+unorderable types: str() >= int()
+@lovatozindo gostou de doctor strange ? neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+RT @AminMatalqa: I just published “The Healing Power of Doctor Strange” https://t.co/w9h4I2r0zs neg:::::1.00
+unorderable types: str() >= int()
+@JamesGunn @Ryan_M_Unicomb Strange as in the Doctor? neg:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Doctor Strange Passes Iron Man 2 at Global Box Office https://t.co/Lfz9ZZMRH4 https://t.co/iyMoCeBqAb neg:::::1.00
+unorderable types: str() >= int()
+Just saw Doctor Strange for the second time. Love that movie so much. neg:::::1.00
+unorderable types: str() >= int()
+RT @ThatCoolBlkNerd: Doctor Strange "A Visually Stunning Mind Trip" - https://t.co/lOmp5jAmlh https://t.co/1jW9nsEkht pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+I hope doctor strange is a good movie pos:::::1.00
+unorderable types: str() >= int()
+'Doctor Strange' casts right spell for Marvel
+
+Marvel braves a stumble with each dip into its grab bag of second https://t.co/d7bxwn2N8W pos:::::1.00
+unorderable types: str() >= int()
+supreme https://t.co/Hm1WUSgNTN neg:::::1.00
+unorderable types: str() >= int()
+With jaw-dropping visuals and fantastic actors, Doctor Strange is a must see--and there's nothing strange about tha… https://t.co/V7zwQzXIBu pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+Wtf DOCTOR STRANGE was awesome pos:::::1.00
+unorderable types: str() >= int()
+@jeshface 😂😂😂😂 there's no way in hell he would be able to accomplish it...Doctor Strange taught me that you gotta be humble to do that. neg:::::1.00
+unorderable types: str() >= int()
+RT @JonVaderSk8: Doctor Strange Illustrated Posters - Created by Paul Shipper https://t.co/W2m3DRgBQW pos:::::0.67
+unorderable types: str() >= int()
+@BlueTakenoko Doctor Strange looks cool :3 pos:::::1.00
+unorderable types: str() >= int()
+Doctor Strange is fun, but for a movie that keeps trying to tell its protagonist that "it's not all about" him, neg:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+Death Stranding: Mads Mikkelsen On Working With Hideo Kojima - https://t.co/ZqVZ2E7jRw Rogue One and Doctor Strange actor likens him to R... neg:::::1.00
+unorderable types: str() >= int()
+@queenscarlettjo he's in my first list ;) https://t.co/JimD0IgSad pos:::::1.00
+unorderable types: str() >= int()
+#Hollywood_News: DOCTOR STRANGE makes an estimated $6.48M weekend, for $215.30M total through five weekends. #DoctorStrange neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+5. Doctor Strange - $6.49M #Movies https://t.co/5wye4WBKex neg:::::1.00
+unorderable types: str() >= int()
+Now that I've seen it - DOCTOR STRANGE MOVIE SPOILERS - Double Toasted Review https://t.co/VruVvIt7eD via @YouTube pos:::::0.67
+unorderable types: str() >= int()
+I liked a @YouTube video https://t.co/0ICuEaWPoH Doctor Strange - Movie Review pos:::::1.00
+unorderable types: str() >= int()
+seasons change, mad things rearrange but it all stays the same like the love doctor strange pos:::::0.83
+unorderable types: str() >= int()
+Doctor Strange! https://t.co/OtZ3HgXxrJ neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange was a great movie I recommend it pos:::::1.00
+unorderable types: str() >= int()
+RT @CBR: Benedict Cumberbatch Receives the Real Doctor Strange's Seal of Approval https://t.co/QTBx6yX8cF https://t.co/EyWu8pyvTM pos:::::0.83
+unorderable types: str() >= int()
+Yup, this dude's got most of the same issues I had with the Doctor Strange movie. pos:::::0.83
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+RT @cartoonjunkie1: Went to see Doctor Strange for the second time plus Trolls today!! Both are really good and entertaining to watch!! Go… pos:::::1.00
+unorderable types: str() >= int()
+Man, should I buy this? It looks interesting 😂😂 https://t.co/2YK43Pyhuy neg:::::1.00
+unorderable types: str() >= int()
+RT @theBobbyCrogan: I'm ready for tonight's Doctor Strange discussion. Fucking come at me bro. https://t.co/ZvMhxeSTvN neg:::::1.00
+unorderable types: str() >= int()
+@cartoonjunkie1 I want-no I NEED TO see Doctor Strange 😆 neg:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+doctor strange https://t.co/WAGDytNer8 neg:::::1.00
+unorderable types: str() >= int()
+@GARYGARYGARRYYY D) My only option
+
+Went Han Solo to see Doctor Strange/Guardians at Astor on Saturday night after… https://t.co/NWTd4FNVzl neg:::::1.00
+unorderable types: str() >= int()
+doctor strange. https://t.co/WAGDytNer8 neg:::::1.00
+unorderable types: str() >= int()
+Marvel DOCTOR STRANGE Sorcerer Supreme #31 Movie TO STOP THE SILVER SURFER https://t.co/8sufzWX1Fx neg:::::1.00
+unorderable types: str() >= int()
+Follow @gb_reviews for geeky TV &amp; movie reviews and for your chance to WIN the #DoctorStrange Giveaway! Enter here: https://t.co/LLmLKzuCXu pos:::::1.00
+unorderable types: str() >= int()
+@cartoonjunkie1 I need to watch Doctor Strange so bad!!!  😭😭 neg:::::1.00
+unorderable types: str() >= int()
+Marvel DOCTOR STRANGE Sorcerer Supreme #34 Movie Infinity Gauntlet Crossover https://t.co/l66lvCTAnI neg:::::1.00
+unorderable types: str() >= int()
+Marvel DOCTOR STRANGE Sorcerer Supreme #33 Movie Infinity Gauntlet Crossover https://t.co/mcMpc3pRBZ neg:::::1.00
+unorderable types: str() >= int()
+RT @andreasofiamr: "Silence your ego and your power will rise." — Doctor Strange pos:::::1.00
+unorderable types: str() >= int()
+Doctor Strange was great!!!! neg:::::1.00
+unorderable types: str() >= int()
+Finallyyyy #DoctorStrange (@ AMC River East 21 - @amctheatres for Doctor Strange in Chicago, IL) https://t.co/GOiLvJ5d70 pos:::::0.67
+unorderable types: str() >= int()
+Mf's look like Doctor Strange https://t.co/13ZHIhDrFm neg:::::0.83
+unorderable types: str() >= int()
+Doctor Strange https://t.co/yFEt5pAIDh neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange "A Visually Stunning Mind Trip" - https://t.co/lOmp5jiLtJ https://t.co/lQqrSf0x8N pos:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+I added a video to a @YouTube playlist https://t.co/NihOHuUKuh Marvel Legends Dormammu BAF Build A Figure Doctor Strange Movie Wave pos:::::1.00
+unorderable types: str() >= int()
+@SamsonJinks …DOCTOR Strange.
+
+:3 neg:::::1.00
+unorderable types: str() >= int()
+#news Agents of S. H. I. E. L. D is connected to Doctor Strange, here's how https://t.co/OWdliUeP5D https://t.co/pxPn3ZzFM6 neg:::::0.83
+unorderable types: str() >= int()
+in other news doctor strange is a good movie but 7/10 simply for the erasure of an asian character fuck yall for that pos:::::1.00
+unorderable types: str() >= int()
+@AndresNavyz Doctor Strange 😂😂😂 https://t.co/nH2UBXDKn9 neg:::::1.00
+unorderable types: str() >= int()
+Superhero Bits: Daredevil &amp; Jessica Jones Vinyl, Smelly Villains, Doctor Strange Box Office &amp; More #filmmaking https://t.co/f2Ov2avuTx pos:::::1.00
+unorderable types: str() >= int()
+I'm giving away something for you on @Listia: Doctor Strange Sorcerer Supreme #s 60, 61. Get it here - https://t.co/6yJbqFRX7y pos:::::1.00
+unorderable types: str() >= int()
+RT @MarvelNewz: Doctor Strange surpasses Iron Man 2 at the Global Box Office ( with a $634.9 million total ) https://t.co/UHExoQH9pM neg:::::1.00
+unorderable types: str() >= int()
+@cartoonjunkie1 I FUCKING LOVE DOCTOR STRANGE! IVE SEEN IT TWICE. neg:::::1.00
+unorderable types: str() >= int()
+Raymond Doctor Strange Long Sleeve Romper Bodysuit Outfits White 18 Months https://t.co/esHGcAhGBA https://t.co/c3bcwJqlkv neg:::::1.00
+unorderable types: str() >= int()
+Box Office: ‘Moana’ Wins Weekend,’Fantastic Beasts’ Passes $600M, ‘Doctor Strange’ Tops ‘Iron Man 2’ — Forbes… https://t.co/8HTTvCyxyj neg:::::1.00
+unorderable types: str() >= int()
+So much fun hanging out with great friends. Saw doctor strange… https://t.co/s65sNR3g0p neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange was a fucking trip 😫 pos:::::1.00
+unorderable types: str() >= int()
+Doctor strange or fantastic beasts and where to find them? neg:::::1.00
+unorderable types: str() >= int()
+RT @ComicBookNOW: 'DOCTOR STRANGE' Passes 'IRON MAN 2' At The Box Office https://t.co/mqxea0g8VL https://t.co/75CDAByH3A neg:::::1.00
+unorderable types: str() >= int()
+DOCTOR STRANGE #61  Marvel Comics 1983 Dr. Strange Master of Mystic Arts Movie https://t.co/xiepS45ru7 pos:::::1.00
+unorderable types: str() >= int()
+Doctor Strange would have been dope in 4DX. neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+RT @jabmarohom: Similarities between Iron Man and Doctor Strange 😉 https://t.co/CWyxpp3g7B neg:::::0.67
+unorderable types: str() >= int()
+Box Office: 'Moana' Wins Weekend,'Fantastic Beasts' Passes $600M, 'Doctor Strange' Tops 'Iron Man 2' https://t.co/oFqrVbx4ex #Business #News neg:::::1.00
+unorderable types: str() >= int()
+Finally saw the intense kaleidoscope that is Doctor Strange. Best special effects of any Marvel movie to date. neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange: Made for a fun night out. Bet the Avengers could use his help sometimes. Stunning visuals paired wi… https://t.co/GKf7fLdrvy pos:::::0.83
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+I want to watch doctor strange tonight neg:::::0.83
+unorderable types: str() >= int()
+The doctor lost in the strange city Art Print Posters and Art
+https://t.co/Nga7MMZGz1 neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+The doctor lost in the strange city Art Print Mug
+https://t.co/oVTLC2dGpI neg:::::1.00
+unorderable types: str() >= int()
+The doctor lost in the strange city Art Print Laptop Case
+https://t.co/AJoSUc6DYU neg:::::1.00
+unorderable types: str() >= int()
+Doctor strange was so good😛😍 neg:::::1.00
+unorderable types: str() >= int()
+Entertainment Weekly - Doctor Strange - #BenedictCumberbatch - 01/08/2015 https://t.co/2BH33fsBgB #Entertainment #Buzz pos:::::0.67
+unorderable types: str() >= int()
+Just Pinned to doctor strange: - film-book https://t.co/OrP1NJrkPY https://t.co/1nWhgO81zZ pos:::::0.67
+unorderable types: str() >= int()
+What will the all-time box office rank 4 Doctor Strange movie b on Dec 27th? Enter &amp; win click on the link below https://t.co/rcsYWxVdet neg:::::0.83
+unorderable types: str() >= int()
+The doctor lost in the strange city Art Print Notebook
+https://t.co/BUi2PmikcF neg:::::1.00
+unorderable types: str() >= int()
+Just Pinned to doctor strange: - film-book https://t.co/MFvSwrDLN6 https://t.co/TXV2lTyNO7 pos:::::0.67
+unorderable types: str() >= int()
+The doctor lost in the strange city Art Print Phone Case
+https://t.co/m5sOI5mfNL neg:::::1.00
+unorderable types: str() >= int()
+RT @ohgodbenny: Man, should I buy this? It looks interesting 😂😂 https://t.co/2YK43Pyhuy neg:::::1.00
+unorderable types: str() >= int()
+i really want to see doctor strange now neg:::::1.00
+unorderable types: str() >= int()
+i still haven't seen doctor strange https://t.co/hRyMQsjIpT neg:::::1.00
+unorderable types: str() >= int()
+Doctor strange was a badass movie can't wait for the next one with my babe Thor 😍 neg:::::0.83
+unorderable types: str() >= int()
+Just watched Doctor Strange. I'm in love neg:::::1.00
+unorderable types: str() >= int()
+@jaejae316 I still haven't seen Doctor Strange :( neg:::::1.00
+unorderable types: str() >= int()
+What will all-time box office rank 4 Doctor Strange movie b Dec 27th? Enter &amp; win click on the link below https://t.co/rcsYWxVdet neg:::::0.83
+unorderable types: str() >= int()
+That mannequin challenge in Doctor Strange. neg:::::1.00
+unorderable types: str() >= int()
+@CodyTMK saw doctor strange? neg:::::1.00
+unorderable types: str() >= int()
+2016 Upper Deck Doctor Strange Palmer Ancient One Base Silver LTFX /50 LOT 12 https://t.co/UomwEDRBLx https://t.co/v3U2DxPrtz neg:::::1.00
+unorderable types: str() >= int()
+I liked a @YouTube video from @schmoesknow https://t.co/KKqtYJ35HK SK SHOW #257: DOCTOR STRANGE PREVIEW pos:::::1.00
+unorderable types: str() >= int()
+Just need a good Doctor Strange stream pos:::::1.00
+unorderable types: str() >= int()
+doctor strange but with a dog. dogtor strange. neg:::::1.00
+unorderable types: str() >= int()
+RT @cartoonjunkie1: Went to see Doctor Strange for the second time plus Trolls today!! Both are really good and entertaining to watch!! Go… pos:::::1.00
+unorderable types: str() >= int()
+@LadyEmma91 i wish people who only saw doctor strange knew about donna; i always thought BC played stephen with that tragedy as background neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+I rated Doctor Strange (2016) 8/10  #IMDb - loved it . Love #BenedictCumberbatch !  https://t.co/bQdfW5rAgk pos:::::0.67
+unorderable types: str() >= int()
+Still haven't seen Moana or doctor strange 🙄 neg:::::1.00
+unorderable types: str() >= int()
+He's in EVERYTHING
+
+Star Wars
+Doctor Strange
+Death Stranding
+
+Leave Me Alone Mr. Lips pos:::::0.83
+unorderable types: str() >= int()
+my review of doctor strange:
+"that shit was lit as fuck dog" neg:::::1.00
+unorderable types: str() >= int()
+@deadpooliskind Star and Doctor Strange would be a lot of fun to see I think. neg:::::1.00
+unorderable types: str() >= int()
+Holy shit, Doctor Strange... Doctor Strange, holy shit. I have never seen such a visually stunning movie. pos:::::1.00
+unorderable types: str() >= int()
+RT @theBobbyCrogan: I'm ready for tonight's Doctor Strange discussion. Fucking come at me bro. https://t.co/ZvMhxeSTvN neg:::::1.00
+unorderable types: str() >= int()
+Entertainment Weekly Back Issue Doctor Strange #BenedictCumberbatch January 2016 https://t.co/8TzeKSPHxt #Entertainment #Buzz neg:::::1.00
+unorderable types: str() >= int()
+28 mins in Doctor Strange and I have rolled my eyes 12 times pos:::::1.00
+unorderable types: str() >= int()
+RT @jeannine_kayla: Doctor strange was so good😛😍 neg:::::1.00
+unorderable types: str() >= int()
+RT @thebestofmarvel: DOCTOR STRANGE surpasses Iron Man 2 at the Global Box Office ! ( with a $634.9 million total ) https://t.co/terXyPi7ld neg:::::1.00
+unorderable types: str() >= int()
+RT @jeannine_kayla: Doctor strange was so good😛😍 neg:::::1.00
+unorderable types: str() >= int()
+"Ugh.." He has to rub his head from frustration. "It's Doctor Strange. I have a PhD for Christ's sake." https://t.co/1QWx9b13dd pos:::::0.83
+unorderable types: str() >= int()
+Doctor Strange 2016 VF - HD CAM Gratuit
+Sur: https://t.co/dRl2Cf6Hxx
+#Film #Streaming #filmstreaming #Movies pos:::::0.67
+unorderable types: str() >= int()
+RT @MRodOfficial: Between Doctor Strange and Interstellar the pressure is on to figure out String Theory once &amp; for all, hope it happens in… neg:::::0.83
+unorderable types: str() >= int()
+RT @DrStrangeFeed: Doctor Strange Reaches $634.9 Million Worldwide https://t.co/Bivi0aRuRe #DoctorStrange #Superheroes #MarvelComics https:… neg:::::1.00
+unorderable types: str() >= int()
+Hmmm....
+Robert Downey Jr played Sherlock Homes and Iron Man
+Benedict Cumberbach played SHerlock Homes and Doctor Strange. neg:::::1.00
+unorderable types: str() >= int()
+Doctor Strange Budget &amp; India Box Office Collection: Good Start Benedict Cumberbatch starrer Doctor S https://t.co/J1tosbU9df #bollywood pos:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+no unique mode; found 2 equally common values
+Doctor strange is tripppy neg:::::1.00
+unorderable types: str() >= int()
+who's wants to roll with me n manny https://t.co/HVDGfdxLGO neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+People walked out of Doctor Strange as soon as the credits started... amateurs. neg:::::1.00
+unorderable types: str() >= int()
+Just saw Doctor Strange the film, it was ok pos:::::0.83
+unorderable types: str() >= int()
+Doctor strange was alright. The ending was at least funny. neg:::::1.00
+unorderable types: str() >= int()
+Oscars: 'Jungle Book,' 'Rogue One,' 'Doctor Strange' Lead VFX Race ... - Variety https://t.co/QqbacbWGkL https://t.co/b24DfB4RUZ pos:::::0.67
+unorderable types: str() >= int()
+NEW Diamond Marvel Select Avengers Doctor Dr. Strange 7" Action Figure NIB https://t.co/lYymoLufNi #ebay #toys #hobbies neg:::::1.00
+unorderable types: str() >= int()
+#BenedictCumberbatch HAND signed Autographed 8X10 photo w/COA DOCTOR STRANGE https://t.co/OA02hW5R1S #Entertainment #Buzz neg:::::1.00
+unorderable types: str() >= int()
+#FWMD16 Update ($ = mil)
+1. Doctor Strange - $215
+2. Fantastic Beasts - $183
+3. Trolls - $141
+4. Moana - $119
+5. Accountant - $84 neg:::::0.83
+unorderable types: str() >= int()
+RT @EpicallyGeeky: #FWMD16 Update ($ = mil)
+1. Doctor Strange - $215
+2. Fantastic Beasts - $183
+3. Trolls - $141
+4. Moana - $119
+5. Account… neg:::::0.83
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+'Doctor Strange' Surpasses 'Iron Man 2' At The Box Office https://t.co/ubhi8tIjfa https://t.co/gVkjGiUYG1 neg:::::1.00
+unorderable types: str() >= int()
+Doctor strange at the sac drive in rn 😭🤗😌 neg:::::1.00
+unorderable types: str() >= int()
+RT @FilmClickbait: Because boarding schools aren't actually fun, according to her. https://t.co/rnobqUgaNq neg:::::1.00
+unorderable types: str() >= int()
+RT @DrStrangeMagic: Oscars: 'Jungle Book,' 'Rogue One,' 'Doctor Strange' Lead VFX Race ... - Variety https://t.co/QqbacbWGkL https://t.co/b… pos:::::0.67
+unorderable types: str() >= int()
+I think my dad teared up while watching Doctor Strange. neg:::::1.00
+unorderable types: str() >= int()
+no unique mode; found 2 equally common values
+Like that's an accomplishment IM 2 is trash https://t.co/cm7YH32vUS pos:::::0.83
+unorderable types: str() >= int()
+Doctor Strange was much, much better than I expected. Excited for Thor 3 and that new alliance! 😄 neg:::::0.83
+unorderable types: str() >= int()
+I got beaten up by a level 10 Doctor Strange neg:::::1.00
+unorderable types: str() >= int()
